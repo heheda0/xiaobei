@@ -13,7 +13,7 @@ SCKEY = os.getenv("XIAOBEI_SCKEY")
 
 temperature={
     "temperature": "36.3",
-    "coordinates": "中国-重庆市-重庆市-永川区",
+    "coordinates": "中国-重庆市-重庆市-铜梁区",
     "location": "105.92709,29.356",
     "healthState": "1",
     "dangerousRegion": "2",
